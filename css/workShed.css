@@ -1,0 +1,166 @@
+/*.navbar{
+	background-color: transparent;
+}
+*/
+.navbar-brand{
+	font-size: 2.5rem;
+	font-weight: 700;
+}
+.nav-link{
+	color: white;
+}
+.carousel-item{
+	height: 700px;
+}
+.carousel-img1{
+	background: url(../img/chess2.jpg);
+	background-size: cover;
+}
+.carousel-img2{
+	background: url(../img/coffee2.jpg);
+	background-size: cover;
+}
+.carousel-img3{
+	background: url(../img/coffee5.jpg);
+	background-size: cover;
+}
+.carousel-img4{
+	background: url(../img/coffee7.jpg);
+	background-size: cover;
+}
+.carousel-caption{
+	margin-bottom: 12%;
+}
+.bg-blue{
+	background-color: rgb(101, 160, 242);
+}
+.bg-grey{
+	background-color: rgb(237, 239, 242);
+}
+/*.bg-grey2{
+	background-color: rgb(237, 239, 242);
+}*/
+/*.bg-darkblue{
+	background-color: rgb(101, 160, 242);
+}*/
+.hr-style{
+	border-bottom: white 5px solid;
+	width: 5%;
+	margin-left: 0%;
+	margin-top: -0.5%;
+	margin-bottom: 3%;
+}
+.hr-style2{
+	border-bottom: rgb(60, 123, 216) 5px solid;
+	width: 5%;
+	margin-left: 0%;
+	margin-top: -0.5%;
+	margin-bottom: 3%;
+}
+.hr-style3{
+	border-bottom: rgb(18, 61, 104) 5px solid;
+	width: 100%;
+	margin-left: 0%;
+	margin-top: 10%;
+	margin-bottom: 3%;
+}
+#image1{
+	background: url(../img/people2.jpg);
+	padding-top: 30%; /*MAKES IMAGE AND TEXT CLOSER*/
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#text1{
+	padding-top: 5%;
+	line-height: 40px;
+	background-color: rgb(72, 105, 147);
+}
+#image2{
+	background: url(../img/people1.jpg);
+	padding-top: 30%; /*MAKES IMAGE AND TEXT CLOSER*/
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#text2{
+	padding-top: 5%;
+	line-height: 40px;
+	background-color: rgb(61, 102, 153);
+}
+#image4{
+	background: url(../img/chess4.jpg);
+	padding-top: 30%; /*MAKES IMAGE AND TEXT CLOSER*/
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#text4{
+	padding-top: 5%;
+	line-height: 40px;
+	background-color: rgb(56, 65, 76);
+}
+#text4 > h5, #text5 > h5, #text7 > h5{
+	letter-spacing: 2px;
+}
+h4{
+	letter-spacing: 2px;
+}
+#image5{
+	background: url(../img/coffee5.jpg);
+	padding-top: 30%; /*MAKES IMAGE AND TEXT CLOSER*/
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#text5{
+	padding-top: 5%;
+	line-height: 40px;
+	background-color: rgb(61, 102, 153);
+}
+#image7{
+	background: url(../img/coffee5.jpg);
+	padding-top: 30%; /*MAKES IMAGE AND TEXT CLOSER*/
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#text7{
+	padding-top: 5%;
+	line-height: 30px;
+	background-color: rgb(61, 102, 153);
+}
+.more-btn{
+	width: 35%;
+	border-radius: 0px; /*makes button flat*/
+}
+.more-btn:hover{
+	color: black;
+}
+.btn-flat{
+	width: 30%;
+	border-radius: 0px; /*makes button flat*/
+}
+li{
+	line-height: 20px;
+}
+.blue-heading{
+	color: rgb(60, 123, 216);
+}
+.small-text{
+	font-size: 0.7rem;
+}
+.dark-card-body{
+	background-color: rgb(191, 196, 201);
+}
+.light-card-body{
+	background-color: rgb(237, 239, 242);
+}
+.brand{
+	font-size: 4rem;
+	font-weight: 700;
+}
+.brand-text{
+	font-size: 0.9rem;
+}
+.push-left{
+	padding-left: 10%;
+}
+.move-left{
+	margin-left: 10%;
+}
